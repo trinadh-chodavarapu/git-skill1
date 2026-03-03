@@ -1,1 +1,2 @@
 Git Skill 1 Practice
+Bug fixed in project
